@@ -9,7 +9,8 @@ If you make use of the EALPR: Vehicles data, please cite the following reference
   volume={},
   number={},
   pages={106-111},
-  doi={10.1109/ACIRS55390.2022.9845514}}
+  doi={10.1109/ACIRS55390.2022.9845514}
+}
 ```
 
 [Source](https://ieeexplore.ieee.org/document/9845514)
