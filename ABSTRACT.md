@@ -15,7 +15,7 @@
 
 ## Proposed method
 
-Authors use two object detection models for license plate detection and recognition. The input to our proposed system is the vehicle image, whereas the output is the recognized license plate characters and digits. Tiny-YOLOV3 is the backbone architecture for both stages LP detection and recognition.
+Authors use two object detection models for license plate detection and recognition. The input to authors' proposed system is the vehicle image, whereas the output is the recognized license plate characters and digits. Tiny-YOLOV3 is the backbone architecture for both stages LP detection and recognition.
 
 <img src="https://i.ibb.co/D8B8sBh/Screenshot-2023-10-30-145453.png" alt="image" width="800">
 
