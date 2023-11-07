@@ -43,7 +43,7 @@ GITHUB_URL: str = "https://github.com/dataset-ninja/ealpr-vehicles"
 ##################################
 ### * Optional after uploading ###
 ##################################
-DOWNLOAD_ORIGINAL_URL: Optional[Union[str, dict]] = ["https://github.com/ahmedramadan96/EALPR"]
+DOWNLOAD_ORIGINAL_URL: Optional[Union[str, dict]] = "https://github.com/ahmedramadan96/EALPR"
 # Optional link for downloading original dataset (e.g. "https://some.com/dataset/download")
 
 CLASS2COLOR: Optional[Dict[str, List[str]]] = None
